@@ -8,7 +8,7 @@ link-github: "https://github.com/srhbinion/magic-eight"
 link: "http://magiceight.obsidianpixel.com/"
 link-name: magiceight.obsidianpixel.com
 
-keywords: Development, Design, HTML/CSS, Sass, Type kit & Jekyll
+keywords: Development, Design, HTML/CSS, Sass, Type-kit & Jekyll
 
 description: |
     Ask Zoltar is a random fortune generating website written in JQuery with custom visuals in Sass (inspired by the Ask Zoltar machine from the movie BIG). Additional note, this site is created by installing a Jekyll gem and hosted with gh-pages.

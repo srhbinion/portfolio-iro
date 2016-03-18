@@ -9,7 +9,7 @@ link-github: "https://github.com/srhbinion/bloc-chat"
 link: "https://github.com/srhbinion/bloc-chat"
 link-name: github.com/bloc-chat
 
-keywords: Development, HTML/CSS, JQuery, JavaScript & Jekyll
+keywords: Development, Design, HTML/CSS, AngularJS, JavaScript & Firebase
 
 description: |
     Bloc Chat is a site I created during my bloc.io boot camp using AngularJS to control the views and Firebase to hold the Real Time Chat data. Head over to github to see my code. 

@@ -5,14 +5,14 @@ permalink: /contact/
 
 ---
 <div>
-    <p class="contact-page">
-    Hello, I am Sarah Binion and I am a designer / ui developer (amongst other things) living in Chicago. 
-
-    Born and raised in Wisconsin, (yes, I love beer and cheese), I received a BS in Art with an emphasis in Visual Design from the University of Wisconsin-Madison. I am an active member of the AIGA, UX Book Club, ChiDuXX, Chicago HTML5, a <a href="http://www.starterleague.com/">Starter League</a> UX alumna, and a <a href="http://www.bloc.io/frontend-development-bootcamp">Bloc.io Front-End</a> alumna. 
-
-    When I am not working, you can find me on [twitter](https://twitter.com/SrhBinion), [instagram](https://www.instagram.com/srhbinion/), or listening to cool people speak about ideas they love. I believe in surrounding myself with stuff I enjoy, whether it’s friends, hobbies, or a job. Please send me a message or follow me on social media. I am always interested in connecting with new people.
+    <p class="contact-page .column.half">
+    Hello! I am Sarah Binion. I am a designer/ ui developer (amongst other things) living in Chicago. 
+    <br><br>
+    Born and raised in Wisconsin, (yes, I love beer and cheese), I received a BS in Art with an emphasis in Visual Design from the University of Wisconsin-Madison. I am an active member of the <a href="http://portfolios.aiga.org/sarahbinion">AIGA</a>, UX Book Club, ChiDuXX, Chicago HTML5, a <a href="http://www.starterleague.com/">Starter League</a> UX alumna, and a <a href="http://www.bloc.io/frontend-development-bootcamp">Bloc.io Front-End</a> alumna. 
+    <br><br>
+    When I am not working, you can find me on <a href="http://twitter.com/SrhBinion">twitter</a>, <a href="http://www.instagram.com/srhbinion/">instagram</a>, or listening to cool people speak about ideas they love. I believe in surrounding myself with stuff I enjoy, whether it’s friends, hobbies, or a job. Please send me a message or follow me on social media. I am always interested in connecting with new people.
     </p>
-    <p class="contact-page">
+    <p class="contact-page .column.half">
         <img src="/img/claw.png">
     </p>
 </div>
