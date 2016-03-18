@@ -24,7 +24,7 @@ description: |
 While writing my code, I learned the importance of informative documentation and prototype naming standards to keep my code succinct.
 
 
-<div style="background-color:#757575;">
+<div style="background-color:#01598c;">
 <br>
 {% highlight javascript %}
 binChat.controller("LandingController", ["$scope", "$firebaseArray","Room", "Message", function($scope, $firebaseArray, Room, Message) {
