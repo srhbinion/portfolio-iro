@@ -16,6 +16,9 @@ permalink: /contact/
         <img src="/img/claw.png">
     </p>
 </div>
+<h5 class="back-btn">
+    <a href="{{ site.baseurl }}/">BACK</a>
+</h5>
 <br>
 <br>
 <div id="wufoo-z1rhkn9q14cgznu"  style="background-color: #d5d5d5; padding: 30px;">
