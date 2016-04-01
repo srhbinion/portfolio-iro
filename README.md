@@ -1,21 +1,15 @@
 Portfolio
 =======
 
-#Live Preview
-* Link
+Portfolio site originially cloned from a jekyll template. Updated used typed.js, sass, YAML, and jekyll to create site.
 
-# Portfolio Iro Theme
-## Based on Type Theme
+Live Preview
+---------
+* [My Portfolio](http://sarahinion.com)
+
+# This Portfolio is based on Iro Theme
 
 ![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-iro.png)
-
-A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
-
-## Get Started
-
-[Demo](https://rohanchandra.github.io/type-theme/)
-
-[Using Type](https://rohanchandra.github.io/project/type/)
 
 ## License
 The MIT License (MIT)
