@@ -7,9 +7,9 @@ Live Preview
 ---------
 * [My Portfolio](http://sarahinion.com)
 
-# This Portfolio is based on Iro Theme
+This Portfolio is based on Iro Theme
 
 ![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-iro.png)
 
-## License
+### License
 The MIT License (MIT)

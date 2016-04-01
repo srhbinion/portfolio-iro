@@ -6,7 +6,7 @@ thumbnail-path: "/img/thumb/ZoltarTb.png"
 link-github: "https://github.com/srhbinion/magic-eight"
 
 link: "http://magiceight.obsidianpixel.com/"
-link-name: magiceight.obsidianpixel.com
+link-name: Ask Zoltar
 
 keywords: Development, Design, HTML/CSS, Sass, Type-kit & Jekyll
 

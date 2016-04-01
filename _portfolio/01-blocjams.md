@@ -5,8 +5,8 @@ thumbnail-path: "/img/thumb/BlocJamsTb.png"
 
 link-github: "https://github.com/srhbinion/bloc-jams"
 
-link: "https://github.com/srhbinion/bloc-jams"
-link-name: github.com/bloc-jams
+link: "http://bjams.obsidianpixel.com/"
+link-name: Bloc Jams
 
 keywords: Development, Design, HTML/CSS, JQuery & JavaScript
 

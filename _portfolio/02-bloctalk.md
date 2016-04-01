@@ -6,8 +6,8 @@ thumbnail-path: "/img/thumb/BlocchatTb.png"
 
 link-github: "https://github.com/srhbinion/bloc-chat"
 
-link: "https://github.com/srhbinion/bloc-chat"
-link-name: github.com/bloc-chat
+link: "http://bchattwo.obsidianpixel.com/"
+link-name: Bloc Chat
 
 keywords: Development, Design, HTML/CSS, AngularJS, JavaScript & Firebase
 
